@@ -5,6 +5,9 @@
 /tmp
 /out-tsc
 /bazel-out
+.angular
+.vscode
+.husky
 
 # Node
 /node_modules
